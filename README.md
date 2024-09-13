@@ -6,7 +6,6 @@ This is a fully-featured E-commerce application built using modern web technolog
 
 ## **Features**
 - User authentication (Login/Signup)
-- Role-based access control (User/Admin)
 - Product listing with search and pagination
 - Cart functionality
 - Order placement
@@ -14,15 +13,13 @@ This is a fully-featured E-commerce application built using modern web technolog
 
 ## **Technologies Used**
 - **Frontend:** React.js / Angular / Next.js
-- **Backend:** JSON Server (for simulation)
 - **State Management:** Redux (if applicable)
 - **Styling:** CSS, Bootstrap
-- **Testing:** Selenium WebDriver (for automation testing)
   
 ## **Getting Started**
 
 ### **Prerequisites**
-- Node.js installed on your system
+- Vite+Reactjs@ installed on your system
 
 ### **Installation**
 1. Clone the repository:
