@@ -38,9 +38,7 @@ This project is a front-end eCommerce web application built using React.js and T
     ![Screenshot (146)](https://github.com/user-attachments/assets/03d9120c-0010-46c8-8a28-5ee81003c694)
 
   - **Contact Page:** Users can contact the company for inquiries or support.
-    ![Screenshot (149)](https://github.com/user-attachments/assets/1c2e08f3-1ce1-4862-a2a1-70bee9a96e72)
-
-
+    
 ### **Admin Features**
 - **Admin Dashboard:** 
   - Add new products to the website.
