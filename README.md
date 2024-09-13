@@ -77,7 +77,7 @@ This project is a front-end eCommerce web application built using React.js and T
  
    npm run dev
 
-2. Open `http://localhost:5173/` in your browser to view the app.
+2. Open `[http://localhost:5173/](http://localhost:5173/)` in your browser to view the app.
 
 ## **Project Structure**
 - **Login & Signup Pages:** Enable user authentication. The signup page allows new users to create accounts, while the login page grants access to existing users. The authentication flow ensures secure access to customer features like cart, order history, and profile management.
