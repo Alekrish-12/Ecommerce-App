@@ -7,7 +7,10 @@ This project is a front-end eCommerce web application built using React.js and T
 
 ### **Customer Features**
 - **Home Page:** Displays the latest products, best-selling products, a newsletter subscription box, and a footer.
-![image](https://github.com/user-attachments/assets/d1445395-1e95-42fc-a73e-1b6cf229e957)
+![Screenshot (140)](https://github.com/user-attachments/assets/906ef785-c6c3-405c-896a-5ae3e7244022)
+
+
+
 
 - **Product Collection Page:** Displays all products with filter, sort, and search functionalities.
 
@@ -15,19 +18,25 @@ This project is a front-end eCommerce web application built using React.js and T
 
 - **Product Page:** Shows product details such as image gallery, title, price, description, add-to-cart button, and related products.
 - **Cart Page:** View items in the cart, adjust quantities, and remove items.
+  ![Screenshot (145)](https://github.com/user-attachments/assets/90019ddf-e860-4ed3-a1a1-cf3fcdce6409)
+
 - **Place Order Page:** Finalize and place orders based on the cart contents.
-- ![Screenshot (149)](https://github.com/user-attachments/assets/af7758af-462d-4193-9a76-5ad341275e8f)
+  ![Screenshot (144)](https://github.com/user-attachments/assets/b9438b54-7c80-4f81-8734-3809ba503dc1)
+
 
 - **My Order List Page:** View the history of placed orders.
 - **Login & Signup Pages:** 
   - **Signup Page:** New users can create an account by providing necessary details.
-    ![Screenshot (141)](https://github.com/user-attachments/assets/fc6e44e5-a276-470f-81b9-6149c4261f3d)
+  ![Screenshot (148)](https://github.com/user-attachments/assets/07b37fd0-c5cd-4d4f-9c99-a47e2c763108)
+
 
   - **Login Page:** Registered users can log in to access their accounts, view order history, and manage their profiles.
     ![Screenshot (149)](https://github.com/user-attachments/assets/203258e3-f48f-4537-aabf-6f20e1b504fd)
 
 - **Additional Pages:** 
   - **About Page:** Provides information about the company.
+    ![Screenshot (146)](https://github.com/user-attachments/assets/03d9120c-0010-46c8-8a28-5ee81003c694)
+
   - **Contact Page:** Users can contact the company for inquiries or support.
     ![Screenshot (149)](https://github.com/user-attachments/assets/1c2e08f3-1ce1-4862-a2a1-70bee9a96e72)
 
