@@ -44,6 +44,10 @@ This project is a front-end eCommerce web application built using React.js and T
   - Add new products to the website.
   - List and delete products.
   - Display and update orders.
+    ![Screenshot (152)](https://github.com/user-attachments/assets/5966eb98-22b8-4901-a801-6bade2888f65)
+
+    
+![Screenshot (153)](https://github.com/user-attachments/assets/092b197e-3e58-4d4c-8557-f56b23a4a8d6)
 
 ## **Technologies Used**
 - **Frontend:** React.js
